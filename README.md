@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/charan-kamarapu/">
   <img align="left" alt="Profile" width="30px" src="https://github.com/charankamarapu/charankamarapu/blob/main/icons8-linkedin-48.png"/>
 </a>
-<a href="mailto:2018111@iiitdmj.ac.in">
+<a href="mailto:kamarapucharan@gmail.com">
   <img align="left" alt="Email Me" width="30px" src="https://github.com/charankamarapu/charankamarapu/blob/main/envelope.svg" />
 </a>  
 <br>
